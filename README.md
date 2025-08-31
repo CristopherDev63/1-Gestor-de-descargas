@@ -10,4 +10,10 @@ sin ninguna restriccion alguna.
 ├── config.py
 └── main.py
 ```
+---
+# Funcionamiento de cada código
+- **`main.py`**: Es la parte lógica en donde se maneja todo la lógica del proyecto.
+- **`config.py`**: Es la parte de configuración de la app.
+---
+# Funcionamiento del proyecto
 
