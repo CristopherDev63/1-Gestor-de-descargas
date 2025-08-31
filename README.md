@@ -35,4 +35,7 @@ categorias = {
     "...": "..."
 ```
 NOTA IMPORTANTE: Se tiene que respestar el nombre del diccionario y la lista.
+
 Y listo, a probar!
+
+Hay que entender que este es mi primer proyecto y hay mucha posibilidad de pesima ortografia de en comentarios o hasta en la propia documentacion.
